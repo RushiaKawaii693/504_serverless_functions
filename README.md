@@ -15,7 +15,9 @@ GCP: https://diabetes101-694276524349.europe-west1.run.app
 ## Example Requests
 
 GCP Normal Level
-
+<img width="912" height="240" alt="image" src="https://github.com/user-attachments/assets/2fa661b6-be8d-47f5-b7e4-07892fcb34eb" />
+Output: 
+<img width="541" height="20" alt="image" src="https://github.com/user-attachments/assets/d080a981-a9cc-47f1-b052-3d3f61ea5d2c" />
 
 
 
