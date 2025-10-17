@@ -37,9 +37,15 @@ Output:
 
 ## Comparison between GCP and OCI for serverless functions
 GCP (Google Cloud Platform) – Cloud Functions
-- -Supports several runtimes such as Node.js, Python, Go, Java, .NET, and Ruby
-- -Very easy to deploy using the Google Cloud Console, CLI, or GitHub
-- -Automatically scales almost instantly with traffic
+- Supports multiple runtimes such as Node.js, Python, Go, Java,.NET, and Ruby.
+- Very simple to deploy via Google Cloud Console, CLI, or GitHub.
+- Automatically scales relatively immediately with traffic.
 
 
+OCI (Oracle Cloud Infrastructure) – Functions
+- Built on the open-source Fn Project, providing flexibility and portability.
+- Effective integration with OCI's enterprise tools and services.
+- Oracle IAM provides effective security and identity management.
+
+## Overall
 Overall, GCP Cloud Functions is preferable for most users due to its ease of use, faster setup, stronger integrations, and comprehensive developer support.  It is great for quickly developing and delivering lightweight, event-driven apps without concern about infrastructure.  OCI Functions, while powerful and safe, particularly for enterprises that already use Oracle's ecosystem, have a higher learning curve and less community assistance. In terms of flexibility, speed, and scalability, GCP generally offers the best serverless experience.
