@@ -11,6 +11,8 @@ GCP:
 ## Endpoint Urls
 GCP: https://diabetes101-694276524349.europe-west1.run.app
 
+## Errors that Stopped me from deploying the function
+
 <img width="948" height="422" alt="image" src="https://github.com/user-attachments/assets/f1221c17-5ce9-480e-a408-369a7ed8a296" />
 
 <img width="943" height="339" alt="image" src="https://github.com/user-attachments/assets/e2ef186e-0e40-48d8-9ca6-18e5df167344" />
