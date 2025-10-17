@@ -1,6 +1,8 @@
 # 504_serverless_functions
 
-
+## Loom Recording
+Google Cloud:https://www.loom.com/share/ff2ff6fd93c648cf97ffb47a9ad76327?sid=91b0ebc0-e760-472d-83ed-5a437e14950a
+OCI:https://www.loom.com/share/ff2ff6fd93c648cf97ffb47a9ad76327?sid=137e8fb3-8ebb-4a41-aa2b-d2f6fefd6247
 
 
 ## Functionality Shocase
